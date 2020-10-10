@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactRecipie-App/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactRecipie-App/static/js/main.fceadb84.chunk.js",
+    "main.js.map": "/ReactRecipie-App/static/js/main.fceadb84.chunk.js.map",
+    "runtime-main.js": "/ReactRecipie-App/static/js/runtime-main.b4c9ec96.js",
+    "runtime-main.js.map": "/ReactRecipie-App/static/js/runtime-main.b4c9ec96.js.map",
+    "static/js/2.53ca6d38.chunk.js": "/ReactRecipie-App/static/js/2.53ca6d38.chunk.js",
+    "static/js/2.53ca6d38.chunk.js.map": "/ReactRecipie-App/static/js/2.53ca6d38.chunk.js.map",
+    "index.html": "/ReactRecipie-App/index.html",
+    "precache-manifest.9d6568981ecb02a6b2d3f5669f9d56d7.js": "/ReactRecipie-App/precache-manifest.9d6568981ecb02a6b2d3f5669f9d56d7.js",
+    "service-worker.js": "/ReactRecipie-App/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactRecipie-App/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.53ca6d38.chunk.js.LICENSE.txt": "/ReactRecipie-App/static/js/2.53ca6d38.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactRecipie-App/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4c9ec96.js",
+    "static/js/2.53ca6d38.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fceadb84.chunk.js"
+  ]
+}
