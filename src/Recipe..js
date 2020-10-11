@@ -1,13 +1,19 @@
 import React from 'react';
+import style from "./recipie.module.css";
 
 
-const Recipe = ({title, calories, image})=> {
+const Recipe = ({title, calories, image, ingredients, dietLabels})=> {
 
     return(
-        <div>
+        <div className = {style.recipie}>
         <h1>{title}</h1>
-        <p>{calories}</p>
-        <img src={image} alt="" />
+       <p><b>Diet Label : </b>{dietLabels}</p>
+        <ol>
+            {ingredients.map(ingredient => 
+                <li>{ingredient.text}</li>)}
+        </ol>       
+        <img className={style.image} src={image} alt={title} />
+        <p> <b>Calories : </b>{calories}</p>
     </div>
     );
   
